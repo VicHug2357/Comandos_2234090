@@ -18,6 +18,7 @@
 --
 -- Table structure for table `lista`
 --
+/* rev */
 
 DROP TABLE IF EXISTS `lista`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
